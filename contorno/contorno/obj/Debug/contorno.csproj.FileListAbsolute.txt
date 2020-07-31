@@ -1,0 +1,10 @@
+C:\Users\yamga\source\repos\contorno\contorno\bin\Debug\contorno.exe.config
+C:\Users\yamga\source\repos\contorno\contorno\bin\Debug\contorno.exe
+C:\Users\yamga\source\repos\contorno\contorno\bin\Debug\contorno.pdb
+C:\Users\yamga\source\repos\contorno\contorno\obj\Debug\contorno.Form1.resources
+C:\Users\yamga\source\repos\contorno\contorno\obj\Debug\contorno.Properties.Resources.resources
+C:\Users\yamga\source\repos\contorno\contorno\obj\Debug\contorno.csproj.GenerateResource.cache
+C:\Users\yamga\source\repos\contorno\contorno\obj\Debug\contorno.csproj.CoreCompileInputs.cache
+C:\Users\yamga\source\repos\contorno\contorno\obj\Debug\contorno.exe
+C:\Users\yamga\source\repos\contorno\contorno\obj\Debug\contorno.pdb
+C:\Users\yamga\source\repos\contorno\contorno\obj\Debug\contorno.csprojAssemblyReference.cache

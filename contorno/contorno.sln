@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "contorno", "contorno\contorno.csproj", "{DE9F23EF-9AB1-4D13-9F64-FE41F07F9D8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE9F23EF-9AB1-4D13-9F64-FE41F07F9D8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE9F23EF-9AB1-4D13-9F64-FE41F07F9D8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE9F23EF-9AB1-4D13-9F64-FE41F07F9D8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE9F23EF-9AB1-4D13-9F64-FE41F07F9D8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CCFF8251-293F-4482-844E-71E922295378}
+	EndGlobalSection
+EndGlobal
